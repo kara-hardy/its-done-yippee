@@ -13,7 +13,7 @@ Two tiny MATLAB functions that play an audio cue: `errorohno` for failures, `don
 ### Option A: Clone and add to path
 
 ```bash
-git clone https://github.com/kara-hardy/its-done-yippee.git
+gitclone https://github.com/kara-hardy/its-done-yippee.git
 ```
 
 Then in MATLAB:
