@@ -1,4 +1,4 @@
-# sound-alerts
+# its-done-yippee
 
 Two tiny MATLAB functions that play an audio cue: `errorohno` for failures, `doneyippee` for successes.
 
@@ -13,7 +13,7 @@ Two tiny MATLAB functions that play an audio cue: `errorohno` for failures, `don
 ### Option A: Clone and add to path
 
 ```bash
-git clone https://github.com/<your-username>/sound-alerts.git
+git clone https://github.com/<your-username>/its-done-yippee.git
 ```
 
 Then in MATLAB:
