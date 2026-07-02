@@ -19,7 +19,7 @@ gitclone https://github.com/kara-hardy/its-done-yippee.git
 Then in MATLAB:
 
 ```matlab
-addpath('/path/to/sound-alerts')
+addpath('/path/to/its-done-yippee')
 savepath   % optional, makes it permanent
 ```
 
